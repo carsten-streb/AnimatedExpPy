@@ -1,5 +1,5 @@
 # AnimatedExpPy
-Animated graph of exponential function
+Animated graph of exponential function, output as a gif
 
 Small Python script / jupyter notebook, generated based on the weblinks provided in the notebook and here:
 
